@@ -9,11 +9,17 @@ To address this challenge, I applied data preprocessing, exploratory data analys
 Key highlights of the project:
 
 • Performed exploratory data analysis to understand transaction patterns and fraud distribution
+
 • Identified severe class imbalance (0.17% fraud cases) in the dataset
+
 • Applied SMOTE (Synthetic Minority Oversampling Technique) to balance the training data
+
 • Built and compared Logistic Regression and Random Forest models
+
 • Achieved ~99.95% accuracy and ~85% fraud detection recall using Random Forest
+
 • Evaluated model performance using Confusion Matrix, ROC Curve, and AUC Score (~0.98)
+
 • Conducted feature importance analysis to identify key factors influencing fraud detection
 
 This project demonstrates how data preprocessing, imbalance handling techniques, and ensemble machine learning models can significantly improve fraud detection performance and help financial institutions reduce financial losses.
