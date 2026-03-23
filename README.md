@@ -1,5 +1,5 @@
-# credit-card-fraud-detection
-Machine learning project to detect fraudulent transactions
+## credit-card-fraud-detection
+# Machine learning project to detect fraudulent transactions
 I recently completed a machine learning project focused on detecting fraudulent credit card transactions using data analytics and classification models.
 
 The project analyzed a dataset containing 284,807 transactions, where only 0.17% were fraudulent, making it a highly imbalanced fraud detection problem.
